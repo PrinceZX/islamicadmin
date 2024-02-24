@@ -1,0 +1,28 @@
+http://audiobook.local/admin/video/details/21
+-> View Entry for watch video user count.
+-> User name not complete display show proper place.
+
+
+http://audiobook.local/admin/aiaudiobook
+--> Detail page same as Video details.
+
+http://audiobook.local/admin/audio
+--> Detail page same as Video details.
+--> extra Price feild add.
+
+
+
+
+
+aiaudiobook
+
+user perchase kare enu table, api,
+
+flag add karava no che all ai_audio_by_id-> transaction mathi check karav nu k flag 1 che k nai em 18:44
+
+6 hour
+
+// 2-Jan-2023
+Aiaudio and audio ni url jova ni.
+New Subscription ma ek menu add karva nu.
+Search filter ai audio transaction ma.

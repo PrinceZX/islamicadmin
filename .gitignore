@@ -1,0 +1,39 @@
+# Ignore vendor directory
+/vendor
+
+# Ignore .env file which contains sensitive configuration
+.env
+
+# Ignore storage directory
+/storage
+
+# Ignore any logs
+/logs
+
+# Ignore any session, cache, views files
+/storage/*.key
+/storage/*.zip
+/storage/*.log
+/storage/framework/*
+!/storage/framework/.gitkeep
+/storage/logs/*
+!/storage/logs/.gitkeep
+/storage/app/*
+!/storage/app/.gitkeep
+
+# Ignore composer.lock file
+composer.lock
+
+# Ignore node_modules directory
+node_modules
+
+# Ignore compiled assets
+/public/css/*.css
+/public/js/*.js
+/public/mix-manifest.json
+
+# Ignore any editor specific files
+*.sublime-project
+*.sublime-workspace
+*.idea
+*.vscode
